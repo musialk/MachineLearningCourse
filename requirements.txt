@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+bokeh
+ffmpeg
+pyarrow
+fastparquet
+xlrd>=1.0.0
